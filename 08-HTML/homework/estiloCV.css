@@ -1,0 +1,23 @@
+#foto{
+height: 200px;
+border-radius: 20px;
+}
+body{
+    background-image: url("https://c.pxhere.com/photos/77/39/blue_ocean_water-938678.jpg!d");
+    color: moccasin;
+}
+div{
+    text-align: center;
+}
+h1{
+    background-color: rgba(194, 199, 199, 0.377);
+    width: 500px;
+    display: block;
+    text-align: center;
+    margin: auto;
+    border-radius: 35px 0px 35px 0px;
+-moz-border-radius: 35px 0px 35px 0px;
+-webkit-border-radius: 35px 0px 35px 0px;
+border: 2px solid #5878ca;
+}
+
