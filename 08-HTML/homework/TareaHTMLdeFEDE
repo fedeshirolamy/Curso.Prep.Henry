@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+<TITLE>Tarea HTML de Federico M. Ojeda</TITLE>
+
+</HEAD>
+<BODY>
+    <div>
+        <h1>Federico</h1>
+        <h3>Henry</h3>
+        <h4>Tarea de HTML / CSS</h4>
+    </div>
+
+    <div>
+        <span>Ravioles</span>
+        <a>La Tanita</a>
+    </div>
+
+    <div>
+        <ul>
+            <img src="https://cdn.pixabay.com/photo/2017/02/13/19/23/ravioli-2063535_960_720.jpg"/>
+            <img src="https://cdn.pixabay.com/photo/2014/10/06/21/35/ravioli-476839_960_720.jpg"/>
+        </ul>  
+    </div>
+
+
+
+
+
+
+
+</BODY>
+</HTML>
